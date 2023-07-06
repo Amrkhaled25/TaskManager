@@ -17,4 +17,4 @@ The Task Manager App is a simple web application that allows users to manage the
 1. Clone the repository:
 
    ```bash
-  [ git clone https://github.com/your-username/task-manager-app.git](https://github.com/Amrkhaled25/TaskManager.git)
+  [ git clone https://github.com/your-username/task-manager-app.git](https://github.com/Amrkhaled25/TaskManager.git]
